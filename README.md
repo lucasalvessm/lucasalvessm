@@ -1,15 +1,15 @@
 # Hey, I'm Lucas!
 <a href="https://www.instagram.com/lucasalves.sm/" target="_blank">
-  <img align="left" alt="Instagram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+  <img align="right" alt="Instagram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lucasalvessm" target="_blank">
-  <img align="left" alt="LinkedIn do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="LinkedIn do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/lucasalvessm" target="_blank">
-  <img align="left" alt="Telegram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="right" alt="Telegram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://medium.com/@lucasalvessm" target="_blank">
-  <img align="left" alt="Medium do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+  <img align="right" alt="Medium do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
 
 <br>
