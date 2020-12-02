@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lucas
 <p align="center">
-<a href="https://www.instagram.com/lucasalves.sm/" target="_blank">
+<a href="https://www.instagram.com/lucasalves.sm/" target="_blank" style="text-decoration: none;">
   <img align="center" alt="Instagram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lucasalvessm" target="_blank">
