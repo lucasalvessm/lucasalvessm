@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Lucas
 <p align="center">
-<a href="https://www.instagram.com/lucasalves.sm/" target="_black">
+<a href="https://www.instagram.com/lucasalves.sm/" target="_blank">
   <img align="center" alt="Instagram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/lucasalvessm">
+<a href="https://www.linkedin.com/in/lucasalvessm" target="_blank">
   <img align="center" alt="LinkedIn do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/lucasalvessm">
+<a href="https://t.me/lucasalvessm" target="_blank">
   <img align="center" alt="Telegram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://medium.com/@lucasalvessm">
+<a href="https://medium.com/@lucasalvessm" target="_blank">
   <img align="center" alt="Medium do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
 </p>
