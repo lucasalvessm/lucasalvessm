@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Lucas
+# Hey, I'm Lucas!
 <a href="https://www.instagram.com/lucasalves.sm/" target="_blank">
   <img align="left" alt="Instagram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
