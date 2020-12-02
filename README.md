@@ -1,18 +1,17 @@
 ### Hi there 👋
 <p align="center">
 <a href="https://www.instagram.com/lucasalves.sm/" target="_black">
-  <img align="left" alt="Instagram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+  <img align="center" alt="Instagram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
-<a href="linkedin.com/in/lucasalvessm/">
-  <img align="left" alt="LinkedIn do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/lucasalvessm">
+  <img align="center" alt="LinkedIn do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/lucasalvessm">
-  <img align="left" alt="Telegram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" alt="Telegram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://medium.com/@lucasalvessm">
-  <img align="left" alt="Medium do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+  <img align="center" alt="Medium do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
-
 </p>
 <br>
 <img style="margin: 100%" src="https://wakatime.com/share/@lucasalvessm/56f6f6fc-b7e7-43ec-9df7-8fcfd2633cc9.svg" alt="Wakatime report" height="300" />  
