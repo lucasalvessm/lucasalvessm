@@ -1,5 +1,5 @@
 # Hey, I'm Lucas!
-I am a Software Engineer with expertise in java, NodeJS with NestJS, Oracle SQL and MySQL, HTML/CSS and JavaScript with Angular 10. 
+I am a Software Engineer with expertise in Java, NodeJS with NestJS, Oracle SQL and MySQL, HTML/CSS and JavaScript with Angular 10. 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
