@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Lucas
-<p align="center">
 <a href="https://www.instagram.com/lucasalves.sm/" target="_blank" style="text-decoration: none;">
   <img align="center" alt="Instagram do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
@@ -12,7 +11,7 @@
 <a href="https://medium.com/@lucasalvessm" target="_blank">
   <img align="center" alt="Medium do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
-</p>
+
 <br>
 <img style="margin: 100%" src="https://wakatime.com/share/@lucasalvessm/56f6f6fc-b7e7-43ec-9df7-8fcfd2633cc9.svg" alt="Wakatime report" height="300" />  
 
