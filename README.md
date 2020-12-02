@@ -11,6 +11,7 @@
 <a href="https://medium.com/@lucasalvessm" target="_blank">
   <img align="right" alt="Medium do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
+<br>
 I am a Software Engineer with expertise in Java, NodeJS with NestJS, Oracle SQL and MySQL, HTML/CSS and JavaScript with Angular 10. 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
