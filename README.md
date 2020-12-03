@@ -16,7 +16,7 @@ I am a Software Engineer with expertise in Java, NodeJS with NestJS, Oracle SQL 
 <a href="https://medium.com/@lucasalvessm" target="_blank">
   <img align="right" alt="Medium do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
+<br>
+<img align="left" src="https://wakatime.com/share/@lucasalvessm/56f6f6fc-b7e7-43ec-9df7-8fcfd2633cc9.svg" alt="Wakatime report" height="300" />  
 
-<img src="https://wakatime.com/share/@lucasalvessm/56f6f6fc-b7e7-43ec-9df7-8fcfd2633cc9.svg" alt="Wakatime report" height="300" />  
-
-<img src="https://wakatime.com/share/@lucasalvessm/1542ce01-1e50-49f6-ab3c-af4d7c4cacf7.svg" alt="Wakatime report" height="300" />  
+<img align="right" src="https://wakatime.com/share/@lucasalvessm/1542ce01-1e50-49f6-ab3c-af4d7c4cacf7.svg" alt="Wakatime report" height="300" />  
