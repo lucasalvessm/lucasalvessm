@@ -2,7 +2,7 @@
 I am a Software Engineer with expertise in Java, NodeJS with NestJS, Oracle SQL and MySQL, HTML/CSS and JavaScript with Angular 10. 
 - 💻 Coding almost every day.
 - 🐶 I love dogs and cats 🐱.
-- 🌐 I'm a explorer. I like to learn new things 📒, know places 🌍 and experiment different foods 🍣.
+- 🌐 I'm a explorer. I like to learn new things, know places and experiment different foods.
 
 
 <a href="https://medium.com/@lucasalvessm" target="_blank">
@@ -22,7 +22,7 @@ I am a Software Engineer with expertise in Java, NodeJS with NestJS, Oracle SQL 
 
 <h3 align="center">Here my code stats</h3>
 <p align="center">
-  <img style="margin:100%;" src="https://wakatime.com/share/@lucasalvessm/1542ce01-1e50-49f6-ab3c-af4d7c4cacf7.svg" alt="Wakatime report" height="450" />  
-  <img style="margin:100%;" src="https://wakatime.com/share/@lucasalvessm/56f6f6fc-b7e7-43ec-9df7-8fcfd2633cc9.svg" alt="Wakatime report" height="450" />  
+  <img src="https://wakatime.com/share/@lucasalvessm/1542ce01-1e50-49f6-ab3c-af4d7c4cacf7.svg" alt="Wakatime report" height="450" />  
+  <img src="https://wakatime.com/share/@lucasalvessm/56f6f6fc-b7e7-43ec-9df7-8fcfd2633cc9.svg" alt="Wakatime report" height="450" />  
 </p>
 
