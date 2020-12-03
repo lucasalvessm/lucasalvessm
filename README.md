@@ -21,7 +21,7 @@ I am a Software Engineer with expertise in Java, NodeJS with NestJS, Oracle SQL 
 <br>
 
 <details>
- <summary><b>My coding stats</b>: </summary>
+ <summary><b>👨‍💻 My coding stats</b>: </summary>
 <br>
 <p align = "center">
   <img src="https://wakatime.com/share/@lucasalvessm/1542ce01-1e50-49f6-ab3c-af4d7c4cacf7.svg" alt="Wakatime report" height="450" />  
