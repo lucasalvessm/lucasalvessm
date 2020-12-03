@@ -20,7 +20,7 @@ I am a Software Engineer with expertise in Java, NodeJS with NestJS, Oracle SQL 
 
 <br>
 
-<details open>
+<details>
  <summary><b>My coding stats</b>: </summary>
 <br>
 <p align = "center">
