@@ -1,10 +1,8 @@
 # Hey, I'm Lucas!
 I am a Software Engineer with expertise in Java, NodeJS with NestJS, Oracle SQL and MySQL, HTML/CSS and JavaScript with Angular 10. 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
+- 💻 Coding almost every day.
+- 🐶 I love dogs and cats 🐱.
+- 🌐 I'm a explorer. I like to learn new things 📒, know places 🌍 and experiment different foods 🍣.
 
 <a href="https://www.linkedin.com/in/lucasalvessm" target="_blank">
   <img align="right" alt="LinkedIn do Lucas " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
